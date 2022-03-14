@@ -2,10 +2,16 @@
 
 A live search is implemented in this task. The checkbox filters feature has been added. Node.js-based API is connected without database configuration.
 
+
+<h2>Start</h2>
+
+Use this command to start the application
+
+-- npm run dev
+
 <h2>Version</h2>
 
 release v1.0
-
 
 <h2>Developer</h2>
 
