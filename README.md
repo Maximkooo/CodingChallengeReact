@@ -7,7 +7,7 @@ A live search is implemented in this task. The checkbox filters feature has been
 
 Use this command to start the application
 
--- npm run dev
+npm run dev
 
 <h2>Version</h2>
 
