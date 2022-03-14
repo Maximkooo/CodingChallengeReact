@@ -7,11 +7,18 @@ A live search is implemented in this task. The checkbox filters feature has been
 
 Use this command to start the application
 
+
 <h3> npm run dev </h3>
+
 
 <h2>Version</h2>
 
 release v1.0
+
+<h2>List of ideas</h2>
+
+There is a file List_of_ideas.txt in the project 
+There is a list of improvements to the project
 
 <h2>Developer</h2>
 
