@@ -1,0 +1,23 @@
+.quote-container{
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 2%;
+    display: inline-block;
+    text-align: center;
+    width: 230px;
+}
+
+.quote{
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+.quote-description{
+    color: lightgray;
+    font-size: .9em;
+}
+
+.highlight{
+    font-weight: bold;
+    color: aqua;
+}

@@ -1,0 +1,148 @@
+{
+  "company": [
+    { "id": 1,
+      "name": "CSE Construction GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Berlin" },
+    
+    { "id": 2,
+      "name": "Fortuna Bautec GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Hamburg" },
+    
+    { "id": 3,
+      "name": "CSE Construction GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Plumbing",
+      "city": "Berlin" },
+    
+    { "id": 4,
+      "name": "Aaxonbau",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Plumbing",
+      "city": "Hamburg" },
+        
+    { "id": 5,
+      "name": "CSE Construction GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Köln" },
+    
+    { "id": 6,
+      "name": "Fortuna Bautec GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Plumbing",
+      "city": "Köln" },
+    
+    { "id": 7,
+      "name": "Aaxonbau GbR",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Berlin" },
+    
+    { "id": 8,
+      "name": "Aaxonbau GbR",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Hamburg" },
+    
+    { "id": 9,
+      "name": "Fortuna Bautec GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Berlin" },
+    
+    { "id": 10,
+      "name": "Aaxonbau GbR",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Köln" },
+        
+    { "id": 11,
+      "name": "CSE Construction GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Berlin" },
+    
+    { "id": 12,
+      "name": "Hausservice Syerov",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Hamburg" },
+
+    { "id": 13,
+      "name": "CSE Construction GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Köln" },
+    
+    { "id": 14,
+      "name": "Hausservice Syerov",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Berlin" },
+    
+    { "id": 15,
+      "name": "Fortuna Bautec GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Electrical",
+      "city": "Hamburg" },
+    
+    { "id": 16,
+      "name": "Hausservice Syerov",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Plumbing",
+      "city": "Berlin" },
+        
+    { "id": 17,
+      "name": "CSE Construction GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Köln" },
+    
+    { "id": 18,
+      "name": "Richter Haus GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Hamburg" },
+    
+    { "id": 19,
+      "name": "CSE Construction GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Electrical",
+      "city": "Berlin" },
+    
+    { "id": 20,
+      "name": "Richter Haus GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Elumbing",
+      "city": "Berlin" },
+    
+    { "id": 21,
+      "name": "CSE Construction GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Köln" },
+    
+    { "id": 22,
+      "name": "Richter Haus GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Excavation",
+      "city": "Hamburg" },
+        
+    { "id": 23,
+      "name": "CSE Construction GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Electrical",
+      "city": "Berlin" },
+    
+    { "id": 24,
+      "name": "Richter Haus GmbH",
+      "logo": "https://placekitten.com/200/200",
+      "specialties": "Electrical",
+      "city": "Köln" }
+
+  ]
+}

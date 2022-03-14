@@ -1,0 +1,5 @@
+1. Connect the live database.
+2. Use a drop-down list instead of checkbox
+3. you can add a filter by city
+4. Improve UX design and add effects 
+5. Add comments in the code (for colleagues)
